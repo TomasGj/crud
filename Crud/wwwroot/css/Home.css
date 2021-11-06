@@ -1,0 +1,29 @@
+﻿
+.bg-image {
+    background-image: url("https://download.unsplash.com/photo-1428550670225-15f007f6f1ba");
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 120px 0;
+}
+
+.theme-title {
+    color: #fff;
+    text-align: center;
+}
+
+.vertical-slider {
+    text-align: center;
+}
+
+    .vertical-slider .vertical-caption {
+        font-size: 40px;
+        color: #fff;
+        display: inline-block;
+        text-align: center;
+    }
+
+    .vertical-slider .flex-direction-nav {
+        display: none;
+    }
